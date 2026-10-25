@@ -1,0 +1,17 @@
+{
+  "id": "dig2",
+  "title": "SteamWorld Dig 2",
+  "folder": "SteamWorldDig2",
+  "executable": "Dig2",
+  "assets": "Bundle",
+  "elf_class": 2,
+  "machine": 62,
+  "debian_arch": "amd64",
+  "libs_dir": "libs.x64",
+  "sha256": null,
+  "version": "1.2",
+  "asset_alternatives": [
+    "Bundle",
+    "BundlePC"
+  ]
+}

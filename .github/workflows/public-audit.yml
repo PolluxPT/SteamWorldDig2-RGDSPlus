@@ -1,0 +1,17 @@
+name: Public package audit
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify approved public inventory
+        run: python3 tools/audit_public.py
+      - name: Check shell syntax
+        run: find . -name '*.sh' -not -path './.git/*' -exec sh -n {} \;
+      - name: Check Python syntax
+        run: python3 -m compileall -q tools
+      - name: Test importer with synthetic fixtures
+        run: python3 tools/test_importer.py

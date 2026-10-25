@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Settings>
+ <Setting Key="Audio.Disabled" Value="0" />
+ <Setting Key="Game.Subtitles" Value="1" />
+ <Setting Key="MusicVolume" Value="0.80" />
+ <Setting Key="SoundVolume" Value="0.90" />
+ <Setting Key="Screen.Blackbars" Value="0" />
+ <Setting Key="Screen.Borderless" Value="0" />
+ <Setting Key="Screen.Brightness" Value="0.487763" />
+ <Setting Key="Screen.CustomScale" Value="0.8" />
+ <Setting Key="Screen.Display" Value="0" />
+ <Setting Key="Screen.Fullscreen" Value="1" />
+ <Setting Key="Screen.FullscreenSize" Value="desktop" />
+ <Setting Key="Screen.WindowResizable" Value="0" />
+ <Setting Key="Screen.WindowSize" Value="640;480" />
+ <Setting Key="Screen.VSync" Value="1" />
+ <Setting Key="Version" Value="6.1.1.1" />
+ <Setting Key="Visualizer.Bloom" Value="0" />
+ <Setting Key="Visualizer.EnableAO" Value="0" />
+ <Setting Key="Visualizer.HiQualityLight" Value="0" />
+ <Setting Key="Visualizer.ResolutionScale" Value="1" />
+</Settings>

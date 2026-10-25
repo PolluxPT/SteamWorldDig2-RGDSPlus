@@ -1,0 +1,18 @@
+# Private assembled installations and downloads
+/build/
+/cache/
+*.deb
+*.tar.*
+/SteamWorld*/game/*
+!/SteamWorld*/game/PUT_YOUR_LINUX_GAME_HERE.txt
+/SteamWorld*/savedata/
+/SteamWorld*/logs/
+/SteamWorld*/Arranque_*.txt
+/SteamWorld*/PRIVATE_INSTALLATION_DO_NOT_PUBLISH.txt
+/SteamWorld*/runtime/upstream-notices/
+/SteamWorld*/runtime/libs.*/libstdc++*
+/SteamWorld*/runtime/libs.*/libgcc_s*
+/SteamWorld*/runtime/libs.*/libz.so*
+__pycache__/
+*.pyc
+/dist/

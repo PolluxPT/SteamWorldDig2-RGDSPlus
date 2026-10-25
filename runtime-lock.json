@@ -1,0 +1,54 @@
+{
+  "i386": {
+    "libgcc-s1": {
+      "Package": "libgcc-s1",
+      "Version": "12.2.0-14+deb12u1",
+      "Architecture": "i386",
+      "Filename": "pool/main/g/gcc-12/libgcc-s1_12.2.0-14+deb12u1_i386.deb",
+      "SHA256": "56b95a550b342418f6c4765d5c9b08df2c7167134767e44f1f1bc82ced363ece",
+      "Size": "59560"
+    },
+    "libstdc++6": {
+      "Package": "libstdc++6",
+      "Version": "12.2.0-14+deb12u1",
+      "Architecture": "i386",
+      "Filename": "pool/main/g/gcc-12/libstdc++6_12.2.0-14+deb12u1_i386.deb",
+      "SHA256": "a262f9ad4e4b4adcb6a2663051e36e6c117159b048ae7ce8d4af215e90de3e5e",
+      "Size": "661256"
+    },
+    "zlib1g": {
+      "Package": "zlib1g",
+      "Version": "1:1.2.13.dfsg-1",
+      "Architecture": "i386",
+      "Filename": "pool/main/z/zlib/zlib1g_1.2.13.dfsg-1_i386.deb",
+      "SHA256": "3ca84a1245347652b7e1f8694db222851f7f1e7060515b21e1439b0cf84f96e1",
+      "Size": "82644"
+    }
+  },
+  "amd64": {
+    "libgcc-s1": {
+      "Package": "libgcc-s1",
+      "Version": "12.2.0-14+deb12u1",
+      "Architecture": "amd64",
+      "Filename": "pool/main/g/gcc-12/libgcc-s1_12.2.0-14+deb12u1_amd64.deb",
+      "SHA256": "3016e62cb4b7cd8038822870601f5ed131befe942774d0f745622cc77d8a88f7",
+      "Size": "49856"
+    },
+    "libstdc++6": {
+      "Package": "libstdc++6",
+      "Version": "12.2.0-14+deb12u1",
+      "Architecture": "amd64",
+      "Filename": "pool/main/g/gcc-12/libstdc++6_12.2.0-14+deb12u1_amd64.deb",
+      "SHA256": "5cd3171216d4ab0fc911cfe9c35509bf2dd8f47761c43b7f6a4296701551a24d",
+      "Size": "612604"
+    },
+    "zlib1g": {
+      "Package": "zlib1g",
+      "Version": "1:1.2.13.dfsg-1",
+      "Architecture": "amd64",
+      "Filename": "pool/main/z/zlib/zlib1g_1.2.13.dfsg-1_amd64.deb",
+      "SHA256": "d7dd1d1411fedf27f5e27650a6eff20ef294077b568f4c8c5e51466dc7c08ce4",
+      "Size": "86684"
+    }
+  }
+}

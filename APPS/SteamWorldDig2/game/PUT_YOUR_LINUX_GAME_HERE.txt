@@ -1,0 +1,1 @@
+Use Prepare_Game.sh on your Linux PC to populate a separate private installation. Do not upload your game folder.

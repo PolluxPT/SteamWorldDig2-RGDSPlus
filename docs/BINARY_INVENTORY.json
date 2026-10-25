@@ -1,0 +1,23 @@
+[
+  {
+    "path": "SteamWorldDig2/runtime/box64",
+    "sha256": "eae688bb0707b54fed48ce66e392ebee5ec4e4403ebdc08253fec99640973f7d",
+    "size": 24952120,
+    "elf_class": 2,
+    "machine": 183
+  },
+  {
+    "path": "SteamWorldDig2/runtime/gl4es/libGL.so.1",
+    "sha256": "9bc7e7eb2a9a66f5889d7eb00e052539f409b301a11064e6185469aef72beded",
+    "size": 1885288,
+    "elf_class": 2,
+    "machine": 183
+  },
+  {
+    "path": "SteamWorldDig2/runtime/glx-compat/libglx_compat_v8_x64.so",
+    "sha256": "6e25bbaa301bc5d5c227ad7133f6cc898b93e829193fb64ef406fc2f6b51a54b",
+    "size": 15960,
+    "elf_class": 2,
+    "machine": 62
+  }
+]
